@@ -1,0 +1,85 @@
+N:\PROJECT\PyCharm\TensorFlow\venv\Scripts\python.exe "N:\Queens College 2024\Research\Theoretical-Biophysics\Fall-Semester\Version-F1.0\Python\MFPT-exclusive\main-mfpt.py"
+[0.01, 0.1, 1, 10, 100, 1000, 10000]
+Directory '2024-09-25_08-35-42' created-successfully at N:\Queens College 2024\Research\Theoretical-Biophysics\Fall-Semester\Version-F1.0\Python\MFPT-exclusive\data-output.
+Number of time-steps needed to complete: 457259
+Time elapsed: 4659.5678 seconds.
+Microtubule Configuration: [0, 8, 16, 24]
+
+Number of time-steps needed to complete: 456621
+Time elapsed: 4711.3494 seconds.
+Microtubule Configuration: [0, 8, 16, 24]
+
+Number of time-steps needed to complete: 463518
+Time elapsed: 4778.2541 seconds.
+Microtubule Configuration: [0, 8, 16, 24]
+
+Number of time-steps needed to complete: 515607
+Time elapsed: 5223.9131 seconds.
+Microtubule Configuration: [0, 8, 16, 24]
+
+Number of time-steps needed to complete: 695720
+Time elapsed: 7016.5955 seconds.
+Microtubule Configuration: [0, 8, 16, 24]
+
+Number of time-steps needed to complete: 795339
+Time elapsed: 7912.8663 seconds.
+Microtubule Configuration: [0, 8, 16, 24]
+
+Number of time-steps needed to complete: 808354
+Time elapsed: 7653.3502 seconds.
+Microtubule Configuration: [0, 8, 16, 24]
+
+[{'MFPT: 0.23390189867902844', 'W: 0.01'}, {'W: 0.1', 'MFPT: 0.23411420504771052'}, {'MFPT: 0.23620474589915705', 'W: 1'}, {'MFPT: 0.2542238749315839', 'W: 10'}, {'MFPT: 0.3230279230835524', 'W: 100'}, {'W: 1000', 'MFPT: 0.3653039267013117'}, {'W: 10000', 'MFPT: 0.37114880793923877'}]
+Number of time-steps needed to complete: 457970
+Time elapsed: 5120.8514 seconds.
+Microtubule Configuration: [0, 4, 8, 12, 16, 20, 24, 28]
+
+Number of time-steps needed to complete: 456692
+Time elapsed: 5132.6989 seconds.
+Microtubule Configuration: [0, 4, 8, 12, 16, 20, 24, 28]
+
+Number of time-steps needed to complete: 470558
+Time elapsed: 5270.7227 seconds.
+Microtubule Configuration: [0, 4, 8, 12, 16, 20, 24, 28]
+
+Number of time-steps needed to complete: 581129
+Time elapsed: 6422.5545 seconds.
+Microtubule Configuration: [0, 4, 8, 12, 16, 20, 24, 28]
+
+Number of time-steps needed to complete: 1115585
+Time elapsed: 11982.0946 seconds.
+Microtubule Configuration: [0, 4, 8, 12, 16, 20, 24, 28]
+
+Number of time-steps needed to complete: 1654698
+Time elapsed: 17600.1815 seconds.
+Microtubule Configuration: [0, 4, 8, 12, 16, 20, 24, 28]
+
+Number of time-steps needed to complete: 1758167
+Time elapsed: 18204.5780 seconds.
+Microtubule Configuration: [0, 4, 8, 12, 16, 20, 24, 28]
+
+[{'MFPT: 0.23392552547716103', 'W: 0.01'}, {'W: 0.1', 'MFPT: 0.23435060778237074'}, {'MFPT: 0.23856543433674968', 'W: 1'}, {'MFPT: 0.27732432462587847', 'W: 10'}, {'MFPT: 0.4825375098763787', 'W: 100'}, {'MFPT: 0.6992127830472193', 'W: 1000'}, {'W: 10000', 'MFPT: 0.7413960343636206'}]
+Number of time-steps needed to complete: 456834
+Time elapsed: 5990.9910 seconds.
+Microtubule Configuration: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30]
+
+Number of time-steps needed to complete: 459392
+Time elapsed: 6013.5738 seconds.
+Microtubule Configuration: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30]
+
+Number of time-steps needed to complete: 484723
+Time elapsed: 6345.3347 seconds.
+Microtubule Configuration: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30]
+
+Number of time-steps needed to complete: 724974
+Time elapsed: 9327.6438 seconds.
+Microtubule Configuration: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30]
+
+Number of time-steps needed to complete: 2847896
+Time elapsed: 35220.1784 seconds.
+Microtubule Configuration: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30]
+
+ Number of time-steps needed to complete: 9920146
+Time elapsed: 120360.5453 seconds.
+Microtubule Configuration: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30]
+

@@ -1,0 +1,35 @@
+/usr/local/bin/python3.9 /Users/kbedoya88/Desktop/QC24-Fall-Semester/Computer-Science-Research/Biophysics/Kogan-Bedoya-Algorithm/Biophysics_Numerical_PDE_Solver_Fall_Semester/Version-F1-MFPT-Exc/Main_SRC/main-mfpt.py
+[0.01, 0.1, 1, 10, 100, 1000, 10000]
+Directory '2024-10-04_17-27-05' created-successfully at /Users/kbedoya88/Desktop/QC24-Fall-Semester/Computer-Science-Research/Biophysics/Kogan-Bedoya-Algorithm/Biophysics_Numerical_PDE_Solver_Fall_Semester/Version-F1-MFPT-Exc/Output.
+Time steps needed to complete: 28207
+Duration: 49.6220
+Microtubule Configuration: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+
+Time steps needed to complete: 28627
+Duration: 50.9372
+Microtubule Configuration: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+
+Time steps needed to complete: 32688
+Duration: 58.1868
+Microtubule Configuration: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+
+Time steps needed to complete: 69643
+Duration: 126.5433
+Microtubule Configuration: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+
+Time steps needed to complete: 389398
+Duration: 889.4518
+Microtubule Configuration: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+
+Time steps needed to complete: 1120210
+Duration: 2148.3886
+Microtubule Configuration: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+
+Time steps needed to complete: 1345874
+Duration: 2534.8022
+Microtubule Configuration: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+
+[{'MFPT: 0.23095704800887182', 'W: 0.01'}, {'MFPT: 0.23304878810102023', 'W: 0.1'}, {'MFPT: 0.2540872455656933', 'W: 1'}, {'W: 10', 'MFPT: 0.4711043078692468'}, {'W: 100', 'MFPT: 2.4616262794604755'}, {'MFPT: 7.000489922144917', 'W: 1000'}, {'W: 10000', 'MFPT: 8.3994730503825'}]
+Plot saved to /Users/kbedoya88/Desktop/QC24-Fall-Semester/Computer-Science-Research/Biophysics/Kogan-Bedoya-Algorithm/Biophysics_Numerical_PDE_Solver_Fall_Semester/Version-F1-MFPT-Exc/Output/2024-10-04_17-27-05
+
+Process finished with exit code 0

@@ -1,0 +1,91 @@
+/Users/olegkogan/Desktop/Fall-Semester-24/Biophysics-PDE-Solver-Fall-24/BP-KB-2024-Project/.venv/bin/python /Users/olegkogan/Desktop/Fall-Semester-24/Biophysics-PDE-Solver-Fall-24/BP-KB-2024-Project/Version-F1.0/MFPT-exclusive/main-mfpt.py
+[0.01, 0.1, 1, 10, 100, 1000, 10000]
+Directory '2024-10-03_00-03-57' created-successfully at /Users/olegkogan/Desktop/Fall-Semester-24/Biophysics-PDE-Solver-Fall-24/BP-KB-2024-Project/Version-F1.0/MFPT-exclusive/data-output.
+Time steps needed to complete: 456637
+Duration: 4672.6587
+Microtubule Configuration: [0, 8, 16, 24]
+
+Time steps needed to complete: 457493
+Duration: 4695.1901
+Microtubule Configuration: [0, 8, 16, 24]
+
+Time steps needed to complete: 465732
+Duration: 4820.8102
+Microtubule Configuration: [0, 8, 16, 24]
+
+Time steps needed to complete: 525306
+Duration: 5382.0403
+Microtubule Configuration: [0, 8, 16, 24]
+
+Time steps needed to complete: 645226
+Duration: 6619.8839
+Microtubule Configuration: [0, 8, 16, 24]
+
+Time steps needed to complete: 676485
+Duration: 6801.1561
+Microtubule Configuration: [0, 8, 16, 24]
+
+Time steps needed to complete: 679742
+Duration: 6876.8451
+Microtubule Configuration: [0, 8, 16, 24]
+
+[{'W: 0.01', 'MFPT: 0.23390244251641282'}, {'W: 0.1', 'MFPT: 0.23417020967697885'}, {'W: 1', 'MFPT: 0.23677375685733948'}, {'W: 10', 'MFPT: 0.25694487045139364'}, {'W: 100', 'MFPT: 0.30571448581674027'}, {'W: 1000', 'MFPT: 0.32192551426664184'}, {'W: 10000', 'MFPT: 0.3237842274153179'}]
+Time steps needed to complete: 458445
+Duration: 5221.5886
+Microtubule Configuration: [0, 4, 8, 12, 16, 20, 24, 28]
+
+Time steps needed to complete: 456732
+Duration: 5317.6272
+Microtubule Configuration: [0, 4, 8, 12, 16, 20, 24, 28]
+
+Time steps needed to complete: 474980
+Duration: 5347.9365
+Microtubule Configuration: [0, 4, 8, 12, 16, 20, 24, 28]
+
+Time steps needed to complete: 600157
+Duration: 6938.7404
+Microtubule Configuration: [0, 4, 8, 12, 16, 20, 24, 28]
+
+Time steps needed to complete: 926453
+Duration: 10298.9958
+Microtubule Configuration: [0, 4, 8, 12, 16, 20, 24, 28]
+
+Time steps needed to complete: 1054018
+Duration: 11555.6036
+Microtubule Configuration: [0, 4, 8, 12, 16, 20, 24, 28]
+
+Time steps needed to complete: 1069541
+Duration: 11737.9536
+Microtubule Configuration: [0, 4, 8, 12, 16, 20, 24, 28]
+
+[{'W: 0.01', 'MFPT: 0.23393223743654984'}, {'W: 0.1', 'MFPT: 0.23446827422850738'}, {'W: 1', 'MFPT: 0.23971894245695208'}, {'MFPT: 0.2829752319938266', 'W: 10'}, {'W: 100', 'MFPT: 0.41464458873734483'}, {'W: 1000', 'MFPT: 0.47345825384043283'}, {'W: 10000', 'MFPT: 0.4809912281644414'}]
+Time steps needed to complete: 456923
+Duration: 5882.0456
+Microtubule Configuration: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30]
+
+Time steps needed to complete: 460348
+Duration: 6004.8189
+Microtubule Configuration: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30]
+
+Time steps needed to complete: 493499
+Duration: 6463.1415
+Microtubule Configuration: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30]
+
+Time steps needed to complete: 763070
+Duration: 9771.8647
+Microtubule Configuration: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30]
+
+Time steps needed to complete: 1897783
+Duration: 23680.4155
+Microtubule Configuration: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30]
+
+Time steps needed to complete: 2847064
+Duration: 35255.0100
+Microtubule Configuration: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30]
+
+Time steps needed to complete: 3015914
+Duration: 37594.3242
+Microtubule Configuration: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30]
+
+[{'W: 0.01', 'MFPT: 0.23399193172525873'}, {'W: 0.1', 'MFPT: 0.23506519855244123'}, {'W: 1', 'MFPT: 0.24569316132868446'}, {'W: 10', 'MFPT: 0.34165313761338933'}, {'MFPT: 0.790707376498854', 'W: 100'}, {'W: 1000', 'MFPT: 1.1768406391139032'}, {'MFPT: 1.2457873799018258', 'W: 10000'}]
+Plot saved to /Users/olegkogan/Desktop/Fall-Semester-24/Biophysics-PDE-Solver-Fall-24/BP-KB-2024-Project/Version-F1.0/MFPT-exclusive/data-output/2024-10-03_00-03-57

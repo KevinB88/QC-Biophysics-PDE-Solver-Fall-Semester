@@ -1,0 +1,210 @@
+
+32*32 Domain
+V=-20
+2-T simulation method. 
+
+The glb-max extension approach:
+
+
+[0.01, 0.1, 1, 10, 100, 1000, 10000]
+
+
+w	glb peak time
+				                time			                time-steps
+
+w=0.01	glb peak time attained: 0.11302772282604355	3,002,112.19371
+
+
+w=0.1	glb peak time attained: 0.11362635071749756	3,018,012.2583
+
+w=1	glb peak time attained: 0.11375435919743113	3,021,412.27211 
+
+w=10	glb peak time attained: 0.11374306433155464	3,021,112.27089
+
+w=100	glb peak time attained: 0.11885963857360497	3,157,012.82288
+	
+w=1000 	glb peak time attained: 0.1296876499938675	3,444,613.99103
+
+w=10000	glb peak time attained: 0.13157389259524147	3,494,714.19452 
+
+[{'MFPT: 0.2441925871924649', 'W: 0.01'}, {'W: 0.1', 'MFPT: 0.24441975675379493'}, {'W: 1', 'MFPT: 0.2466550641163465'}, {'MFPT: 0.26587645975425156', 'W: 10'}, {'W: 100', 'MFPT: 0.3388116412480426'}, {'MFPT: 0.38335890851048965', 'W: 1000'}, {'MFPT: 0.3894996080023515', 'W: 10000'}]
+
+glb peak time attained: 0.11349081232697968		30,14,412.24367
+	
+glb peak time attained: 0.11375435919743113		30,21,412.27211
+
+glb peak time attained: 0.11215801815355377		2,979,012.09989
+
+glb peak time attained: 0.11372800451038599		3,020,712.26926 
+
+glb peak time attained: 0.1255612589936562		3,335,013.54586 
+
+glb peak time attained: 0.15769891736756472		4,188,617.01296 
+		
+glb peak time attained: 0.16452478131225734		4,369,917.74935 
+
+[{'W: 0.01', 'MFPT: 0.24421787342187018'}, {'W: 0.1', 'MFPT: 0.2446725746114202'}, {'W: 1', 'MFPT: 0.2491785901082621'}, {'MFPT: 0.2904865809161091', 'W: 10'}, {'MFPT: 0.5079457624849195', 'W: 100'}, {'W: 1000', 'MFPT: 0.7368928714293101'}, {'W: 10000', 'MFPT: 0.7814218697156281'}]
+
+
+glb peak time attained: 0.11044119854032716		2,933,411.91467
+
+glb peak time attained: 0.11370164982334084		3,020,012.26642
+
+glb peak time attained: 0.1132197355459439		3,007,212.21443
+
+glb peak time attained: 0.11375059424213897		3,021,312.2717 
+
+glb peak time attained: 0.14142678059483363		3,756,415.25748 
+
+glb peak time attained: 0.22320913945121143		5,928,624.08036 
+
+glb peak time attained: 0.2449856408610857		6,507,026.42967 23 hrs
+	
+[{'W: 0.01', 'MFPT: 0.24426845231021338'}, {'W: 0.1', 'MFPT: 0.24517885312292664'}, {'W: 1', 'MFPT: 0.25428975841452434'}, {'MFPT: 0.3459031520717591', 'W: 10'}, {'MFPT: 1.1937923143716154', 'W: 100'}, {'W: 1000', 'MFPT: 3.1396445631052625'}, {'MFPT: 3.6184321091910996', 'W: 10000'}]
+
+
+
+2024-09-25_08-35-42
+
+The mass-decay approach : (mass>=0.01) 
+
+						Microtubule Configuration: [0, 8, 16, 24]
+
+Number of time-steps needed to complete: 457,259
+Time elapsed: 4,659.5678 seconds. 	1.29432438889 hrs
+
+Rate: 101.9 tS/sec
+
+Number of time-steps needed to complete: 456,621
+Time elapsed: 4,711.3494 seconds.	1.30870816667 hrs
+
+Rate: 96.92 tS/sec
+
+Number of time-steps needed to complete: 463,518
+Time elapsed: 4,778.2541 seconds.	1.32729280556 hrs
+
+Rate: 97.0057243293 tS/sec 
+
+Number of time-steps needed to complete: 515,607
+Time elapsed: 5,223.9131 seconds.	1.45108697222 hrs 
+
+Rate: 98.7012973091 tS/sec
+
+Number of time-steps needed to complete: 695,720
+Time elapsed: 7,016.5955 seconds.	1.94905430556 hrs 
+
+Rate: 99.1534997279 tS\sec
+
+Number of time-steps needed to complete: 795,339
+Time elapsed: 7,912.8663 seconds.	2.19801841667 hrs 
+
+Rate: 100.512124159 tS\sec
+
+Number of time-steps needed to complete: 808,354
+Time elapsed: 7,653.3502 seconds.	2.12593061111 hrs 
+
+Rate: 105.620934477 tS\sec
+
+[{'MFPT: 0.23390189867902844', 'W: 0.01'}, {'W: 0.1', 'MFPT: 0.23411420504771052'}, {'MFPT: 0.23620474589915705', 'W: 1'}, {'MFPT: 0.2542238749315839', 'W: 10'}, {'MFPT: 0.3230279230835524', 'W: 100'}, {'W: 1000', 'MFPT: 0.3653039267013117'}, {'W: 10000', 'MFPT: 0.37114880793923877'}]
+
+
+(101.9 + 96.92 + 97.0057243293 + 98.7012973091 + 99.1534997279 + 100.512124159 + 105.620934477)/7
+
+Mean rate: 
+
+Time steps 	secs
+
+99.9733685718 : 1
+
+1 : 0.01000266385
+
+						Microtubule Configuration: [0, 4, 8, 12, 16, 20, 24, 28]
+
+Number of time-steps needed to complete: 457,970
+Time elapsed: 5,120.8514 seconds.	1.42245872222 hrs 
+
+Rate: 89.432393996 tS\sec
+
+Number of time-steps needed to complete: 456,692
+Time elapsed: 5,132.6989 seconds.	1.42574969444 hrs 
+
+Rate: 88.9769707707 tS\sec 
+
+Number of time-steps needed to complete: 470,558
+Time elapsed:  5,270.7227 seconds.	1.46408963889 hrs 
+
+Rate: 89.2777000012 tS\sec
+
+Number of time-steps needed to complete: 581,129
+Time elapsed: 6,422.5545 seconds.]	1.78404291667 hrs
+
+Rate: 90.4825330793 tS\sec
+
+Number of time-steps needed to complete: 1,115,585
+Time elapsed: 11,982.0946 seconds.	3.32835961111 hrs
+
+Rate: 93.1043392029 tS\sec
+
+Number of time-steps needed to complete: 1,654,698
+Time elapsed: 17,600.1815 seconds.	4.88893930556 hrs 
+
+Rate: 94.0159622786 tS\sec
+
+Number of time-steps needed to complete: 1,758,167
+Time elapsed: 18,204.5780 seconds.	5.05682722222 hrs 
+
+Rate: 96.5782892633 tS\sec
+
+[{'MFPT: 0.23392552547716103', 'W: 0.01'}, {'W: 0.1', 'MFPT: 0.23435060778237074'}, {'MFPT: 0.23856543433674968', 'W: 1'}, {'MFPT: 0.27732432462587847', 'W: 10'}, {'MFPT: 0.4825375098763787', 'W: 100'}, {'MFPT: 0.6992127830472193', 'W: 1000'}, {'W: 10000', 'MFPT: 0.7413960343636206'}]
+
+
+(89.432393996 + 88.9769707707 + 89.2777000012 + 90.4825330793 + 93.1043392029 + 94.0159622786 + 96.5782892633) / 7
+
+Mean rate:
+
+91.6954555131 : 1 
+
+0.01090566587 : 1 
+
+						Microtubule Configuration: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30]
+
+Number of time-steps needed to complete: 456,834
+Time elapsed: 5,990.9910 seconds.	1.66416416667 hrs
+
+Rate: 76.2534946222 tS\sec
+
+Number of time-steps needed to complete: 459,392
+Time elapsed: 6,013.5738 seconds.	1.67043716667 hrs
+
+Rate: 76.3925105567 tS\sec
+
+Number of time-steps needed to complete: 484,723
+Time elapsed: 6,345.3347 seconds.	1.76259297222 hrs 
+
+Rate: 76.390454234 tS\sec
+
+Number of time-steps needed to complete: 724,974
+Time elapsed: 9,327.6438 seconds.	2.59101216667 hrs 
+
+Rate: 77.7231652006 tS\sec
+
+Number of time-steps needed to complete: 2,847,896
+Time elapsed: 35,220.1784 seconds.	9.78338288889 hrs 
+
+Rate: 80.8597834927 tS\sec
+
+Number of time-steps needed to complete: 9,920,146	
+Time elapsed: 120,360.5453 seconds.	33.4334848056 hrs
+
+Rate: 82.4202480578 tS\sec
+
+The calculation for w=10^4 is still running
+
+Mean Rate (thus far):
+ 
+78.339942694  : 1 
+
+0.01276488041 : 1 
+
+
+
